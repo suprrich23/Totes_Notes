@@ -1,6 +1,6 @@
 Totes_Notes
 ===========
-?Totes-Notes
+Totes-Notes
 
 An android note taking app
 
